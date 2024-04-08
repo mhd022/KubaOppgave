@@ -3415,11 +3415,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/mhd/Projects/Kubaoppgave1/ReactAspcoreBackend/ReactAspCrud/ReactAspCrud.csproj",
+      "projectUniqueName": "/Users/mhd/Documents/GitHub/KubaOppgave/ReactAspcoreBackend/ReactAspCrud/ReactAspCrud.csproj",
       "projectName": "ReactAspCrud",
-      "projectPath": "/Users/mhd/Projects/Kubaoppgave1/ReactAspcoreBackend/ReactAspCrud/ReactAspCrud.csproj",
+      "projectPath": "/Users/mhd/Documents/GitHub/KubaOppgave/ReactAspcoreBackend/ReactAspCrud/ReactAspCrud.csproj",
       "packagesPath": "/Users/mhd/.nuget/packages/",
-      "outputPath": "/Users/mhd/Projects/Kubaoppgave1/ReactAspcoreBackend/ReactAspCrud/obj/",
+      "outputPath": "/Users/mhd/Documents/GitHub/KubaOppgave/ReactAspcoreBackend/ReactAspCrud/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/mhd/.nuget/NuGet/NuGet.Config"
